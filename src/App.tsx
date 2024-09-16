@@ -1,9 +1,9 @@
-import Main from "./Pages/Main";
+import TodoList from "./components/TodoList";
 
 export default function App() {
   return (
     <>
-      <Main />
+      <TodoList />
     </>
   );
 }
